@@ -1,4 +1,4 @@
-# sw-oa-ruby-test-site
+# booking-reference-implementation-ruby-test
 A simple Sinatra app for testing the OA Ruby libraries
 
 To run locally:
