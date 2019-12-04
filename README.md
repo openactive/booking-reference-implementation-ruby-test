@@ -1,4 +1,5 @@
-# booking-reference-implementation-ruby-test
+# models-ruby-test
+
 A simple Sinatra app for testing the OA Ruby libraries
 
 To run locally:
